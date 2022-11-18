@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thantharhnin17
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently working as a Web dwveloper
+- 🌱 I’m currently working as a Web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
